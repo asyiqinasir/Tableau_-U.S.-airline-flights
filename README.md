@@ -12,7 +12,7 @@ Questions raised and answers solved are as follows:
 
 2. You are interested in identifying days that are particularly light in terms of travel each year. Are there particular holidays that seem to experience substantially lower numbers of flights? Use annotations on your viz to show those specific days. 
 **Answer: 
-Holiday that experience substantially lower number of flights:
+Holiday that experience substantially lower number of flights:**
 
 **2010:**
 **1. Independence Day, 4/7/2010**
